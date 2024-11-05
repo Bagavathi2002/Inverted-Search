@@ -1,0 +1,45 @@
+#[0]
+Word is [are]; File Count is 3 :  file is  file3.txt : word Count is 1 
+  file is  file2.txt : word Count is 1 
+  file is  file1.txt : word Count is 1 
+
+#[0]
+Word is [afternoon]; File Count is 1 :  file is  file3.txt : word Count is 1 
+
+#[2]
+Word is [coming]; File Count is 1 :  file is  file3.txt : word Count is 1 
+
+#[5]
+Word is [fine]; File Count is 1 :  file is  file2.txt : word Count is 1 
+
+#[5]
+Word is [from]; File Count is 1 :  file is  file3.txt : word Count is 1 
+
+#[6]
+Word is [Good]; File Count is 1 :  file is  file3.txt : word Count is 1 
+
+#[7]
+Word is [hi]; File Count is 2 :  file is  file2.txt : word Count is 2 
+  file is  file1.txt : word Count is 1 
+
+#[7]
+Word is [hello]; File Count is 2 :  file is  file2.txt : word Count is 2 
+  file is  file1.txt : word Count is 1 
+
+#[7]
+Word is [how]; File Count is 1 :  file is  file1.txt : word Count is 1 
+
+#[22]
+Word is [welcome]; File Count is 1 :  file is  file2.txt : word Count is 1 
+
+#[22]
+Word is [where]; File Count is 1 :  file is  file3.txt : word Count is 1 
+
+#[24]
+Word is [you]; File Count is 3 :  file is  file3.txt : word Count is 1 
+  file is  file2.txt : word Count is 1 
+  file is  file1.txt : word Count is 1 
+
+#[63]
+Word is [?]; File Count is 1 :  file is  file3.txt : word Count is 1 
+
